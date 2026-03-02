@@ -1,0 +1,7 @@
+{
+  "name": "Photo Booth MVP",
+  "description": "A simple photo booth app with filters and gallery",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
